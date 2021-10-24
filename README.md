@@ -1,10 +1,8 @@
-Opa!
-
-Cheguei.
+readme: null;
 
 
 
-
+[Python](https://img.shields.io/badge/%20-python-brightgreen)
 
 
 <!--
