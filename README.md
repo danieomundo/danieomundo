@@ -2,7 +2,6 @@ readme: null;
 
 aprendendo a fazer um readme decente ainda...
 
-https://img.shields.io/badge/-python-brightgreen
 
 <!--
 **danieomundo/danieomundo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
