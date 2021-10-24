@@ -1,7 +1,6 @@
 readme: null;
 
-
-https://img.shields.io/badge/<-->-<Python>-<brightgreen>
+aprendendo a fazer um readme decente ainda...
 
 
 <!--
