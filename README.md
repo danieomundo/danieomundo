@@ -2,7 +2,7 @@
 
 Welcome to my github page! My name is Daniele, but you can call me **Dani**. 😊
 
-I'm currently on an incredible journey towards Devland! 🚀💜
+I'm currently on an incredible journey towards Devland Universe! 🚀💜
 
 Studying to be a front-end devil. 😈
 
