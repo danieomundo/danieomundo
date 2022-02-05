@@ -1,14 +1,25 @@
-Hello, world. :)
+### Hello, world! 🌎💜
 
-Welcome to my github page. I'm Dani!
+Welcome to my github page! My name is Daniele, but you can call me **Dani**. 😊
+
+I'm currently on an incredible journey towards Devland! 🚀💜
+
+Studying to be a front-end devil. 😈
 
 _______________________________________________
+
 
 ### Learning:
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="20" height="20" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="20" height="20" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="20" height="20" /> 
 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danieomundo&layout=compact)](https://github.com/danieomundo/github-readme-stats)
+
+
+
 _____________________________________________
+
 
 ### Contact me:
 
