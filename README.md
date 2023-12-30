@@ -10,9 +10,7 @@ _______________________________________________
 
 
 ### Learning:
-![JAVA](https://camo.githubusercontent.com/fd711c3d9436a4c65d3268ff77bdc48196b2d876ba076e5b58467d319a6ff4da/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d6a6176612d4533344138363f7374796c653d666c61742d737175617265266c6f676f3d6a617661)
-![MYSQL](https://camo.githubusercontent.com/1a085b81c0ac63ef70d22ee1a67560c1bdd5c42038ba20d129d89e7de5603953/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4d7953514c2d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d6d7973716c)
-
+Java, MySQL and Python.
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danieomundo&layout=compact)](https://github.com/danieomundo/github-readme-stats)
