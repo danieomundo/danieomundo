@@ -1,5 +1,7 @@
 ### Hello, World! 🌎💜
 
+<img src="https://gifdb.com/images/high/pikachu-hello-greetings-ysf1v96iox1fo716.gif" width=400>
+
 Welcome to my github page! You can call me **Dani**. 😊
 
 I'm currently on an incredible journey towards Devland! 🚀💜
