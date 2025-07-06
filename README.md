@@ -4,14 +4,6 @@
 
 Welcome to my github page! You can call me **Dani**. 😊
 
-I'm currently on an incredible journey towards Devland! 🚀💜
-
-Studying to be a back-end devil. 😈 Or front-end... Full-stack? 
-
-Well, I like Data Science too. 🥰  
-
-I really hope I find myself in 2024.
-
 _______________________________________________
 
 
